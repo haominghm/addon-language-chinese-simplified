@@ -1,6 +1,6 @@
-# SupportPal Language Pack  - English (en)
+# SupportPal Language Pack  - Chinese Simplified (zh-CN)
 
-The default English language pack for the [SupportPal](https://www.supportpal.com) system, found at `/addons/Languages/English` in a SupportPal installation. This repository will be used to track changes made to the language pack between releases.
+Chinese Simplified language pack for the [SupportPal](https://www.supportpal.com) system.
 
 SupportPal is a [self-hosted, on-premise help desk software](https://www.supportpal.com).
 
